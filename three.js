@@ -1,4 +1,4 @@
-const marks =[60, 70, 80, 40, 30]
+const marks =90
 function  willSuccess( marks ) {
     if (!Array.isArray(marks)) {
         return "Invalid";

@@ -1,4 +1,4 @@
-const contact = true;
+const contact = true
 
 function  validContact( contact ) {
     if(typeof contact !== 'string'){
